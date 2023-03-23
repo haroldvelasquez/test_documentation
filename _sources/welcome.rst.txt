@@ -113,7 +113,7 @@ Gallery
     <div style="background-image: url(./_static/logo.png); background-repeat:no-repeat; background-size: contain"
          class='figure align-center'>
     <span class='figure-label'>
-    <p>correlation_matrix_plot</p>
+    <p>image_label</p>
     </span>
     </div>
     </a>
@@ -124,7 +124,7 @@ Gallery
     <div style="background-image: url(./_static/logo.png); background-repeat:no-repeat; background-size: contain"
          class='figure align-center' margin=10px>
     <span class='figure-label'>
-    <p>slice_plot</p>
+    <p>image_label</p>
     </span>
     </div>
     </a>
@@ -135,7 +135,7 @@ Gallery
     <div style="background-image: url(./_static/logo.png); background-repeat:no-repeat; background-size: contain"
          class='figure align-center'>
     <span class='figure-label'>
-    <p>grid_slice_plot</p>
+    <p>image_label</p>
     </span>
     </div>
     </a>
@@ -146,7 +146,7 @@ Gallery
     <div style="background-image: url(./_static/logo.png); background-repeat:no-repeat; background-size: contain"
          class='figure align-center'>
     <span class='figure-label'>
-    <p>contour_plot</p>
+    <p>image_label</p>
     </span>
     </div>
     </a>
@@ -157,7 +157,7 @@ Gallery
     <div style="background-image: url(./_static/logo.png); background-repeat:no-repeat; background-size: contain"
          class='figure align-center'>
     <span class='figure-label'>
-    <p>scatter_plot</p>
+    <p>image_label</p>
     </span>
     </div>
     </a>
@@ -168,7 +168,7 @@ Gallery
     <div style="background-image: url(./_static/logo.png); background-repeat:no-repeat; background-size: contain"
          class='figure align-center'>
     <span class='figure-label'>
-    <p>scatter_plots</p>
+    <p>image_label</p>
     </span>
     </div>
     </a>
@@ -179,7 +179,7 @@ Gallery
     <div style="background-image: url(./_static/logo.png); background-repeat:no-repeat; background-size: contain"
          class='figure align-center'>
     <span class='figure-label'>
-    <p>scatter_plots_lu</p>
+    <p>image_label</p>
     </span>
     </div>
     </a>
@@ -190,13 +190,12 @@ Gallery
     <div style="background-image: url(./_static/logo.png); background-repeat:no-repeat; background-size: contain"
          class='figure align-center'>
     <span class='figure-label'>
-    <p>pit_plot</p>
+    <p>image_label</p>
     </span>
     </div>
     </a>
 
     <div style="clear: both"></div>
-
 
 
 .. |Python37| image:: https://img.shields.io/badge/python-3.7-red.svg
